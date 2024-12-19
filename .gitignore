@@ -1,0 +1,10 @@
+*.o
+*.exe
+*.log
+*.sdf
+.DS_Store
+Debug/
+Release/
+obj/
+bin/
+build/

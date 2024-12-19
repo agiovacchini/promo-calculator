@@ -1,0 +1,39 @@
+2024-12-19 14:09:17: <info> - BS - Config file: ./data/promo-calculator.ini
+2024-12-19 14:09:17: <info> - BS - Config load start
+2024-12-19 14:09:17: <info> - BS - Config load end
+2024-12-19 14:09:17: <info> - BS - Config print start
+2024-12-19 14:09:17: <info> - BS - Node Id: 1
+2024-12-19 14:09:17: <info> - BS - Key: BarcodesType01, value: EAN13
+2024-12-19 14:09:17: <info> - BS - Key: CartsPriceChangesWhileShopping, value: 0
+2024-12-19 14:09:17: <info> - BS - Key: LoyCardPrefix, value: 260
+2024-12-19 14:09:17: <info> - BS - Key: LoyMaxCardsPerTransaction, value: 2
+2024-12-19 14:09:17: <info> - BS - Key: LoyOnlyOneShoppingSessionPerCard, value: 0
+2024-12-19 14:09:17: <info> - BS - Key: MainArchivesDir, value: 001/12003/
+2024-12-19 14:09:17: <info> - BS - Key: MainDummyRCS, value: 1
+2024-12-19 14:09:17: <info> - BS - Key: MainReturnSeparateLinkedBarcode, value: 0
+2024-12-19 14:09:17: <info> - BS - Key: MainStoreChannel, value: 001
+2024-12-19 14:09:17: <info> - BS - Key: MainStoreId, value: 12003
+2024-12-19 14:09:17: <info> - BS - Key: MainStoreLoyChannel, value: 001
+2024-12-19 14:09:17: <info> - BS - Key: MainVarCheckDelaySeconds, value: 60
+2024-12-19 14:09:17: <info> - BS - Key: NodeId, value: 1
+2024-12-19 14:09:17: <info> - BS - Key: SelfScanScanInDir, value: ./data/scanin/
+2024-12-19 14:09:17: <info> - BS - Key: SelfScanScanOutDir, value: ./data/scanout/
+2024-12-19 14:09:17: <info> - BS - Key: WebAddress, value: 0.0.0.0
+2024-12-19 14:09:17: <info> - BS - Key: WebPort, value: 9081
+2024-12-19 14:09:17: <info> - BS - Key: WebThreads, value: 10
+2024-12-19 14:09:17: <info> - BS - Config print end
+2024-12-19 14:09:17: <info> - BS - File ./data/archives/001/12003/DEPARTMENTS.CSV found
+2024-12-19 14:09:17: <info> - BS - Finished loading file DEPARTMENTS.CSV
+2024-12-19 14:09:17: <info> - BS - File ./data/archives/001/12003/ITEMS.CSV found
+2024-12-19 14:09:17: <info> - BS - Finished loading file ITEMS.CSV
+2024-12-19 14:09:17: <info> - BS - File ./data/archives/001/12003/BARCODES.CSV loaded
+2024-12-19 14:09:17: <info> - BS - Finished loading file BARCODES.CSV
+2024-12-19 14:09:17: <info> - BS - File ./data/archives/001/12003/PROMOTIONS.CSV loaded
+2024-12-19 14:09:17: <info> - BS - Finished loading file PROMOTIONS.CSV
+2024-12-19 14:09:17: <info> - BS - CARTS subfolder found
+2024-12-19 14:09:17: <info> - BS - Checking for variation files
+2024-12-19 14:09:17: <info> - BS - No variation files found
+2024-12-19 14:09:27: <info> - BS - System initialized.
+2024-12-19 14:09:27: <info> - MA - Started http server
+2024-12-19 14:09:35: <info> - MA - Received stop request
+2024-12-19 14:09:35: <info> - MA - Finished processing stop request
